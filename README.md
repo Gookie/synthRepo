@@ -1,4 +1,4 @@
 synthRepo
 =========
 
-Synthesizer Repository
+Synthesizer Repository unseres Studienprojektes
