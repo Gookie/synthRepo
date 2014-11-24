@@ -1,0 +1,15 @@
+10:02:52 **** Build of configuration Release for project SynthesizerTest1 ****
+make all 
+Building file: ../src/SynthesizerTest1.cpp
+Invoking: GCC C++ Compiler
+g++ -O3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/SynthesizerTest1.d" -MT"src/SynthesizerTest1.d" -o "src/SynthesizerTest1.o" "../src/SynthesizerTest1.cpp"
+Finished building: ../src/SynthesizerTest1.cpp
+ 
+Building target: SynthesizerTest1
+Invoking: MacOS X C++ Linker
+g++  -o "SynthesizerTest1"  ./src/SynthesizerTest1.o   
+Finished building target: SynthesizerTest1
+ 
+
+10:02:52 Build Finished (took 327ms)
+
